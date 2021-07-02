@@ -1,9 +1,8 @@
 package taxi.service.service;
 
+import java.util.List;
 import taxi.service.model.Car;
 import taxi.service.model.Driver;
-
-import java.util.List;
 
 public interface CarService extends GenericService<Car> {
     void addDriverToCar(Driver driver, Car car);

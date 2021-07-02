@@ -1,11 +1,10 @@
 package taxi.service.service;
 
+import java.util.List;
 import taxi.service.dao.ManufacturerDao;
 import taxi.service.lib.Inject;
 import taxi.service.lib.Service;
 import taxi.service.model.Manufacturer;
-
-import java.util.List;
 
 @Service
 public class ManufacturerServiceImpl implements ManufacturerService {
