@@ -1,5 +1,5 @@
 # Taxi-service
-This application was written specifically for the taxi service. In it, you can track the drivers of their cars and the brands of cars. It implemented by using CRUD operations and a database.
+This application was written specifically for the taxi service. In it, you can track the drivers of their cars and the brands of cars. It was implemented by using CRUD operations and a database.
 
 # Features
 * Register new drivers his cars and manufacturer
